@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/narawit?ext=heatmap)](https://leetcard.jacoblin.cool)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Narawit?theme=dark&font=Noto%20Sans%20Display&ext=activity)
